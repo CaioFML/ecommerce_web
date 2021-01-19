@@ -1,4 +1,4 @@
-export default interface apiData {
+export default interface ApiData {
   'access-token': string,
   client: string,
   expiry: number,
